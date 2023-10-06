@@ -1,2 +1,1 @@
-# canonical
-Take home assignment
+# Take home test

@@ -1,0 +1,13 @@
+#root {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.BlogPosts {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+}
