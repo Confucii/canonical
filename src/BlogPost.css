@@ -38,6 +38,6 @@
 
 .blogpost-footer {
   border-top: 1px dotted gray;
-  padding-top: 10px;
+  padding: 10px 10px 0px;
   font-weight: 200;
 }
